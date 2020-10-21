@@ -30,4 +30,4 @@ Did this work for you? Questions? Comments?
 Reach me via these channels:
 
 <br/>
-<a href="https://github.com/JosefEmu"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=32px></a>  <a href="https://twitter.com/JosefEmu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/300px-Twitter_bird_logo_2012.svg.png" width=32px></a>  <a href="https://fb.com/JosefEmu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png" width=32px></a>
+<a href="https://github.com/JosefEmu"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=32px></a>  <a href="https://twitter.com/JosefEmu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/300px-Twitter_bird_logo_2012.svg.png" width=32px></a>  
